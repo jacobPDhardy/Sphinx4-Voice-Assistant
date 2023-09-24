@@ -102,7 +102,8 @@ items.add("pay phone");
                         switch(command){
                             case "play" ->{
                                 play(strResult);
-                            }   
+                            }
+
                         }
                         phase = "zero";
                         
