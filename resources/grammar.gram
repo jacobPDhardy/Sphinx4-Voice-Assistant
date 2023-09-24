@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar grammar;
+
+public <name> = (one );
+public<command> = (play);
+public<song> = (stay | counting stars | pay phone);
