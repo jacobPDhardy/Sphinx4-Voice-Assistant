@@ -4,4 +4,4 @@ grammar grammar;
 
 public <name> = (one );
 public<command> = (play);
-public<song> = (stay | counting stars | pay phone);
+public<song> = (stay | counting stars | pay phone | despacito);

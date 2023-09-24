@@ -69,8 +69,10 @@ public class Testtestt {
         
         ArrayList<String> items = new ArrayList<String>();
         items.add("stay");
-items.add("counting stars");
-items.add("pay phone");
+        items.add("counting stars");
+        items.add("pay phone");
+        items.add("despacito");
+        
         String command = "";
         String phase = "zero";       
         while(true){
